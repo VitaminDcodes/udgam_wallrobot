@@ -41,6 +41,7 @@ class UdgamWallRobot:
 ---
 
 ## 🚨 Problem Statement
+The core problem addressed by this project is the absence of a safe, automated, and intelligent system capable of performing high-rise building facade painting and surface inspection without direct human exposure to height-related hazards. Current practices rely entirely on manual labour operating at dangerous elevations, creating a multi-dimensional problem that encompasses occupational safety, operational efficiency, economic cost, and output quality.
 
 | Issue | Impact |
 |-------|--------|
