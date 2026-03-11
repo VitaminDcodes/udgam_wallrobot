@@ -1,0 +1,85 @@
+# 📤 How to Upload to GitHub — Step by Step Guide
+# Repository: VitaminDcodes/udgam_wallrobot
+
+==================================================
+STEP 1 — Fill in the GitHub "New Repository" form
+==================================================
+
+On the github.com/new page:
+
+  Repository name:  udgam_wallrobot
+  Description:      Semi-Autonomous High-Rise Wall Painting Robot — India Innovates 2025
+  Visibility:       ✅ Public
+  Add README:       ✅ ON  (toggle it on)
+  Add .gitignore:   No .gitignore  (we have our own)
+  License:          MIT License
+
+  → Click "Create repository"
+
+
+==================================================
+STEP 2 — Upload files (Easy Way - No Terminal)
+==================================================
+
+After creating the repo:
+
+  1. Click "Add file" → "Upload files"
+
+  2. Drag & drop ALL these files at once:
+       ✅ README.md
+       ✅ LICENSE
+       ✅ .gitignore
+       ✅ HN_WallRobot_GitHub_Theme.pptx  (put it in a folder called "presentation")
+
+  3. In the commit message box, type:
+       "Initial commit: Add presentation and repo files"
+
+  4. Click "Commit changes"  ✅ Done!
+
+
+==================================================
+STEP 3 — Create the "presentation" folder
+==================================================
+
+GitHub doesn't let you create empty folders via upload.
+To add your .pptx inside a /presentation/ folder:
+
+  1. Click "Add file" → "Create new file"
+  2. In the filename box type:  presentation/.gitkeep
+  3. Commit it
+  4. Then upload your .pptx into the presentation/ folder
+
+
+==================================================
+OPTIONAL: Terminal Method (faster for future updates)
+==================================================
+
+# First time setup:
+git clone https://github.com/VitaminDcodes/udgam_wallrobot.git
+cd udgam_wallrobot
+
+# Copy your files into this folder, then:
+git add .
+git commit -m "Initial commit: Add presentation and repo files"
+git push origin main
+
+# Future updates:
+git add .
+git commit -m "Update: describe what you changed"
+git push origin main
+
+
+==================================================
+FINAL RESULT — Your repo will look like this:
+==================================================
+
+  VitaminDcodes/udgam_wallrobot
+  ├── 📄 README.md          ← Shows up on the repo homepage
+  ├── 📄 LICENSE
+  ├── 📄 .gitignore
+  └── 📁 presentation/
+        └── 📊 HN_WallRobot_GitHub_Theme.pptx
+
+  URL: https://github.com/VitaminDcodes/udgam_wallrobot
+
+==================================================
