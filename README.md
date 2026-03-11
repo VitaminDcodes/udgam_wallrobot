@@ -11,7 +11,7 @@
 
 **Semi-Autonomous High-Rise Wall Painting & Inspection Robot**
 
-*Team Udgam_UrbanSolution — India Innovates 2025-26*
+*Team Udgam_UrbanSolution — India Innovates 2026*
 
 </div>
 
@@ -25,7 +25,7 @@ Traditional high-rise painting exposes workers to severe fall hazards, high labo
 
 ```python
 class UdgamWallRobot:
-    name    = "HN-WallBot"
+    name    = "Wall painting Bot"
     mode    = "semi-autonomous"
     adhesion = VacuumSuction(pressure="negative")
     drive   = ConveyorWheels(torque="high")
