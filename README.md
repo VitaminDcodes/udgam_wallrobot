@@ -5,13 +5,13 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-yellow)
-![Event](https://img.shields.io/badge/event-India%20Innovates%202025-orange)
+![Event](https://img.shields.io/badge/event-India%20Innovates%202025-26-orange)
 ![ROS2](https://img.shields.io/badge/ROS-2-22314E?logo=ros)
 ![STM32](https://img.shields.io/badge/MCU-STM32F4-03234B)
 
 **Semi-Autonomous High-Rise Wall Painting & Inspection Robot**
 
-*Team Udgam_UrbanSolution — India Innovates 2025*
+*Team Udgam_UrbanSolution — India Innovates 2025-26*
 
 </div>
 
